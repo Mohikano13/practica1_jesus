@@ -1,0 +1,20 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/z15NpieRw7jL7bKoICwLO5j7FgZ.jpg",
+    "genre_ids": [
+      878
+    ],
+    "id": 733317,
+    "original_language": "en",
+    "original_title": "Monsters of Man",
+    "overview": "Una empresa de robótica que compite para ganar un lucrativo contrato militar se une a un agente corrupto de la CIA para realizar una prueba de campo en vivo ilegal. Desplegan cuatro prototipos de robots armados en un supuesto campo de fabricación de drogas en el Triángulo Dorado, asumiendo que estarían matando a traficantes de drogas que nadie se perdería. Seis médicos en misión humanitaria son testigos de la brutal matanza y se convierten en objetivos principales.",
+    "popularity": 3191.88,
+    "poster_path": "/1f3qspv64L5FXrRy0MF8X92ieuw.jpg",
+    "release_date": "2020-11-19",
+    "title": "Monsters of Man",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 85
+  }
+]
